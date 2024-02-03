@@ -1,2 +1,3 @@
 # TODO-PROJECT
 THIS IS A SIMPLE PROJECT DEVELOPED BY USING HTML CSS AND JAVASCRIPT
+Visit the project https://caravind500.github.io/TODO-PROJECT/index.html
